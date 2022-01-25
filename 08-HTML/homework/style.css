@@ -1,0 +1,31 @@
+h1{
+    color: rgb(70, 218, 40);
+}
+
+img{
+    width: 400px;
+}
+
+#thirdDiv{
+    
+    background-color: rgb(255, 186, 95);
+    height: 600px;
+    width: 400px;
+    padding: 50px;
+    border: 3px rgb(223, 87, 46) dashed;
+    text-align: left;
+    margin:auto;
+}
+#spanID{
+    font-size: 18px;
+    text-align: center;
+}
+body{
+    background: url("https://www.tripsavvy.com/thmb/DP4_WhjCMzxmDMZR_My6Hzru_Ic=/1937x1550/filters:fill(auto,1)/christmas_df-565c871c3df78c6ddf62a281.jpg");
+    background-repeat:repeat ;
+    background-size: contain;
+}
+div{
+    text-align: center;
+}
+ul {margin-left: 0; padding-left: 0;}
