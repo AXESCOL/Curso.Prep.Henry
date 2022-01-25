@@ -7,14 +7,16 @@ img{
 }
 
 #thirdDiv{
-    
+    list-style-type: none;
     background-color: rgb(255, 186, 95);
     height: 600px;
     width: 400px;
-    padding: 50px;
+    padding:50px;
     border: 3px rgb(223, 87, 46) dashed;
-    text-align: left;
+    text-align: center;
     margin:auto;
+    
+
 }
 #spanID{
     font-size: 18px;
@@ -28,4 +30,4 @@ body{
 div{
     text-align: center;
 }
-ul {margin-left: 0; padding-left: 0;}
+ul {margin: 0; padding: 0;}
